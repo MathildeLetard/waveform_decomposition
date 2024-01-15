@@ -1,2 +1,2 @@
 # waveform_decomposition
-Bathymetric lidar waveform decomposition with a U-time inspired convolutional neural network.
+Bathymetric lidar waveform decomposition with a U-time inspired convolutional neural network, as plublished in M. Letard, T. Corpetti and D. Lague, "Bathymetric LiDAR Waveform Decomposition with Temporal Attentive Encoder-Decoders," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 4435-4438, doi: 10.1109/IGARSS52108.2023.10281841 (link: https://ieeexplore.ieee.org/abstract/document/10281841).
